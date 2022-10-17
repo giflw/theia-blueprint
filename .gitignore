@@ -8,3 +8,7 @@
 **/plugins
 **/tsconfig.tsbuildinfo
 *.log
+
+applications/electron/package.json.new
+applications/electron/package.json.orig
+*.bak

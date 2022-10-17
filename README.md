@@ -1,3 +1,8 @@
+# Eos Thesis IDE
+
+A portable and opiniated Theia Blueprint
+
+
 <br/>
 <div id="theia-logo" align="center">
     <br />
