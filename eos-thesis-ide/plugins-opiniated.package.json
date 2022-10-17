@@ -1,0 +1,33 @@
+{
+  "theiaPlugins": {
+    "PKief.material-icon-theme": "",
+    "antfu.browse-lite": "",
+    "asabil.meson": "",
+    "asciidoctor.asciidoctor-vscode": "",
+    "esbenp.prettier-vscode": "",
+    "formulahendry.code-runner": "",
+    "fwcd.kotlin": "",
+    "jeff-hykin.better-dockerfile-syntax": "",
+    "jetmartin.bats": "",
+    "llvm-vs-code-extensions.vscode-clangd": "",
+    "mads-hartmann.bash-ide-vscode": "",
+    "marcostazi.VS-code-vagrantfile": "",
+    "mikestead.dotenv": "",
+    "muhammad-sammy.csharp": "",
+    "njzy.stats-bar": "",
+    "octref.vetur": "",
+    "panekj.powershell": "",
+    "rafaelmardojai.vscode-gnome-theme": "",
+    "redhat.java": "",
+    "rogalmic.bash-debug": "",
+    "rust-lang.rust": "",
+    "scala-lang.scala": "",
+    "scalameta.metals": "",
+    "syler.sass-indented": "",
+    "vscjava.vscode-java-debug": "",
+    "vscjava.vscode-java-dependency": "",
+    "vscjava.vscode-java-pack": "",
+    "vscjava.vscode-java-test": "",
+    "vscode.git": ""
+  }
+}

@@ -3,7 +3,7 @@
 # MUST be run from project root directory
 #
 
-cd portable
+cd eos-thesis-ide
 node ./update-plugins.mjs
 cd ..
 
