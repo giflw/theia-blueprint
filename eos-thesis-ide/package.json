@@ -1,0 +1,9 @@
+{
+  "name": "eos-thesis-ide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}

@@ -13,13 +13,16 @@ yarn electron clean:dist
 yarn electron clean
 yarn clean
 
-cp ./applications/electron/package.json ./applications/electron/package.json.orig
-npx --yes json-merger --pretty ./applications/electron/package.json ./portable/plugins.package.json --output ./applications/electron/package.json
+npx --yes json-merger --pretty  ./applications/electron/package.json            \
+                                ./eos-thesis-ide/plugins.package.json           \
+                                ./eos-thesis-ide/plugins-opiniated.package.json \
+                                --output ./applications/electron/package.json
+
+npx --yes json-merger --pretty  ./applications/electron/package.json            \
+                                ./eos-thesis-ide/dependencies.package.json      \
+                                --output ./applications/electron/package.json
 
 yarn
 yarn electron download:plugins
 yarn build
 yarn electron package
-
-cp ./applications/electron/package.json ./applications/electron/package.json.new
-cp ./applications/electron/package.json.orig ./applications/electron/package.json 

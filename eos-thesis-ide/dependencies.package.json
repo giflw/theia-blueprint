@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"theia-blueprint-updater": { "$remove": true },
+		"theia-blueprint-product": { "$remove": true }
+	}
+}
